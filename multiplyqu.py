@@ -1,8 +1,8 @@
 a=int("2")
 b=int("4")
 c=int("6")
-f=0
-f=a+b
+m=0
+m=a+b
 q=0
-q=f*c
+q=m*c
 print(q)
